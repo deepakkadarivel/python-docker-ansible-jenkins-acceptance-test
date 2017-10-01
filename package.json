@@ -1,0 +1,25 @@
+{
+  "name": "todobackend-specs",
+  "version": "0.1.0",
+  "description": "Todobackend Acceptance tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakkadarivel/python-docker-ansible-jenkins-acceptance-test.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Mocha",
+    "Chai",
+    "Superagent"
+  ],
+  "author": "Deepak Kadarivel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakkadarivel/python-docker-ansible-jenkins-acceptance-test/issues"
+  },
+  "homepage": "https://github.com/deepakkadarivel/python-docker-ansible-jenkins-acceptance-test#readme"
+}
