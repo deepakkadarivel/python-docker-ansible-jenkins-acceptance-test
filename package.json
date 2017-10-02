@@ -21,5 +21,18 @@
   "bugs": {
     "url": "https://github.com/deepakkadarivel/python-docker-ansible-jenkins-acceptance-test/issues"
   },
-  "homepage": "https://github.com/deepakkadarivel/python-docker-ansible-jenkins-acceptance-test#readme"
+  "homepage": "https://github.com/deepakkadarivel/python-docker-ansible-jenkins-acceptance-test#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.2.0",
+    "mocha": "^3.5.3",
+    "mocha-jenkins-reporter": "^0.3.9",
+    "superagent": "^3.6.1",
+    "superagent-promise": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  }
 }
